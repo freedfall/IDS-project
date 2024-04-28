@@ -9,10 +9,13 @@
     - Podhornyi Maksym (xpodho08)
 
 #### Project is divied in 4 parts
-1. **Data model (ERD) and use case model**
-2. **SQL script for creating database schema objects**
-3. **SQL script with SELECT queries**
-4. **SQL script for creating advanced database schema objects**
+1. **Data model (ERD) and use case model** (xpodho08)
+2. **SQL script for creating database schema objects** (xkinin00)
+3. **SQL script with SELECT queries** (xpodho08)
+4. **SQL script for creating advanced database schema objects** (xkinin00)
 
 ### Evaluation
-    - Will be updated
+    1. 5/5
+    2. 5/5
+    3. 4/5
+    5. To be updated / 19
